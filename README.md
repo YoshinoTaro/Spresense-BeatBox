@@ -7,7 +7,7 @@ This is the source code of Spresense BeatBox.
 You need Spresense Main Board and Extenstion board. 
 The schematic is "spresense_beatbox.png" in "resources" folder.
 
-<img src="https://github.com/YoshinoTaro/Spresense-BeatBox/tree/master/spresense_beatbox/resources/spresense_beatbox.png" alt="spresense_beatbox/resources/spresense_beatbox.png" title="The connection of Spresense BeatBox">
+<img src="./spresense_beatbox/resources/spresense_beatbox.png" alt="spresense_beatbox/resources/spresense_beatbox.png" title="The connection of Spresense BeatBox">
 
 Don't forget to store R1-R7.mp3 and L1-L7.mp3 on your SD card when you run this program.  
  
